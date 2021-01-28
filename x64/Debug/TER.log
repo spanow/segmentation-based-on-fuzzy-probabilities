@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\v_-\source\repos\TER\TER\Source.cpp(147,9): warning C4101: 'c' : variable locale non référencée
+  TER.vcxproj -> C:\Users\v_-\source\repos\TER\x64\Debug\TER.exe
