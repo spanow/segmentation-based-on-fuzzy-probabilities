@@ -1,6 +1,5 @@
-# TER
+# Project
 
-- VMI-project : VMI-4 
 
  - Group members :
 
